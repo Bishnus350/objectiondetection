@@ -1,2 +1,3 @@
-- Python3 
+- Python3 with its basic modules 
 - Text editor like Emacs, Vim, Sublime text, or even VS code
+- Sklearn, Skimage 
