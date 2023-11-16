@@ -1,1 +1,2 @@
-
+- Python3 
+- Text editor like Emacs, Vim, Sublime text, or even VS code
